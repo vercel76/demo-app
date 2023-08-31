@@ -1,7 +1,8 @@
+// 
+
 // Imports
 
 import fs from 'fs'
-import http from 'http'
 import { createNodeMiddleware } from '@octokit/webhooks'
 
 // Environment Variable Config
